@@ -1,0 +1,10 @@
+build/
+.cache/
+compile_commands.json
+
+# Stray artifacts if something is compiled outside build/
+*.o
+*.d
+*.so
+*.dylib
+*.dSYM/
